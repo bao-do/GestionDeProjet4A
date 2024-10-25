@@ -1,2 +1,3 @@
 # GestionDeProjet4A
 Mon projet du cours Gestion de Projet en 4eme année
+C'est un projet sur git, github,...
